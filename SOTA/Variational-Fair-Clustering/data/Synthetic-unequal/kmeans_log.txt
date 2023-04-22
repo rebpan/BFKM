@@ -1,0 +1,15 @@
+Cluster number for dataset Synthetic-unequal is 2
+Balance of the dataset 0.3333333333333333
+Number of points in the dataset 400
+Demographic-probabilites: [0.75, 0.25]
+Demographic-numbers per group: [300, 100]
+Inside Lambda  60
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%[>           ] 0.1%[>           ] 0.1%[>           ] 0.1%[>           ] 0.1%[>           ] 0.1%[>           ] 0.1%[>           ] 0.1%[>           ] 0.1%[>           ] 0.1%[>           ] 0.1%[>           ] 0.2%[>           ] 0.2%[>           ] 0.2%Converged
+
+ Elapsed Time in bound_update 0.47203849999999997
+fairness_error = 0.0000
+compute energy
+fair clustering energy = 271.3661003350635
+clustering energy = 203.88201913325477
+Inside k-means update
